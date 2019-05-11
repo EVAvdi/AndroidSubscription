@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidSubscription</string>
+    <string name="Subscription">Подписка</string>
+    <string name="Name">Имя пользователя</string>
+    <string name="you_name">You name</string>
+    <string name="email">Email</string>
+    <string name="your_email">Your email</string>
+    <string name="ok">Ok</string>
+    <string name="clear">Очистить</string>
+    <string name="name_projet">ПОДПИСКА</string>
+</resources>
